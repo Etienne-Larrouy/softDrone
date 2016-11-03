@@ -1,0 +1,264 @@
+[Workspace Header]
+Version = 1200
+Pathname = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/MK_Nav.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2012"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2012"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "MK_Nav.prj"
+Drag Bar Left = 160
+Window Top = 62
+Window Left = 26
+Window Bottom = 564
+Window Right = 816
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 12
+Window Confinement Region Enabled = True
+MainColumnWidth = 143
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1200
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/MK_Nav.h"
+File Type = "Include"
+Disk Date = 3443445564
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 2
+Source Window State = "1,65,66,66,95,94,94,0,0,80,0,0,0,0,0,23,42,0,81,97,323,683,1,0,"
+
+[File 0002]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/globals.h"
+File Type = "Include"
+Disk Date = 3438086291
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 11
+Source Window State = "1,16,16,16,24,30,30,0,0,80,0,2,0,0,0,25,0,0,16,41,349,683,1,41,"
+
+[File 0003]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/serial.h"
+File Type = "Include"
+Disk Date = 3411905336
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 7
+Source Window State = "1,45,45,45,0,4,4,0,0,80,0,0,0,0,0,25,0,0,45,3,349,683,1,45,"
+
+[File 0004]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/cvixml.h"
+File Type = "Include"
+Disk Date = 3422588400
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 8
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,23,0,0,0,0,323,683,1,0,"
+
+[File 0005]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/toolbox.h"
+File Type = "Include"
+Disk Date = 3422588400
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 12
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,23,36,0,0,0,323,683,1,0,"
+
+[File 0006]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/traitements_fichier.h"
+File Type = "Include"
+Disk Date = 3411903070
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Z-Order = 6
+Source Window State = "1,13,13,13,0,8,8,0,0,80,0,0,0,0,0,21,0,0,15,28,297,683,1,0,"
+
+[File 0007]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/msxmldom.h"
+File Type = "Include"
+Disk Date = 3422588400
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0008]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/serial.c"
+File Type = "CSource"
+Disk Date = 3411961530
+In Projects = "1,"
+Window Top = 30
+Window Left = 6
+Window Z-Order = 5
+Source Window State = "1,0,0,0,0,0,0,0,0,60,0,0,0,0,0,20,0,0,0,0,284,523,1,0,"
+
+[File 0009]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/MK_Nav.c"
+File Type = "CSource"
+Disk Date = 3443446406
+In Projects = "1,"
+Window Top = 163
+Window Left = 78
+Window Z-Order = 1
+Source Window State = "1,919,919,919,43,46,46,0,0,215,0,68,0,0,0,70,875,0,921,82,349,683,1,45,"
+
+[File 0010]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/traitements_fichier.c"
+File Type = "CSource"
+Disk Date = 3411902672
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 9
+Source Window State = "1,10,10,10,0,20,20,0,0,80,0,10,0,43,0,25,0,0,8,19,349,683,1,14,"
+
+[File 0011]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/cvixml.c"
+File Type = "CSource"
+Disk Date = 3422588400
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 3
+Source Window State = "1,1013,1013,1013,8,19,8,0,0,80,0,0,0,0,0,23,338,0,358,8,323,683,1,0,"
+
+[File 0012]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/msxmldom.c"
+File Type = "CSource"
+Disk Date = 3422588400
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,683,1,0,"
+
+[File 0013]
+Path = "/h/ECHANGES_ETUDIANTS/PROMO-1013/drone/MKNav_v2/MK_Nav.uir"
+File Type = "User Interface Resource"
+Disk Date = 3443098624
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 683
+Window Z-Order = 4
+
+[File 0014]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/toolslib/toolbox/toolbox.c"
+File Type = "CSource"
+Disk Date = 3422588400
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+

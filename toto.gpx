@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <desc>gps track description</desc>
+    <author>
+      <name>real name</name>
+      <email id="progysm" domain="gmail.com" />
+    </author>
+    <copyright author="real name">
+      <year>2011</year>
+      <license>http://creativecommons.org/licenses/by-sa/2.5</license>
+    </copyright>
+    <keywords>keywords1,keywords2,keywords3</keywords>
+    <bounds minlat="46.378121" minlon="-75.5166892" maxlat="46.574503299999996" maxlon="-75.4133762" />
+  </metadata>
+  <trk>
+    <name>Pont Albiny-Paquette</name>
+    <trkseg>
+      <trkpt lat="46.5495815" lon="-75.5139309"><time>2009-07-02T15:39:11Z</time></trkpt>
+      <trkpt lat="46.5498728" lon="-75.5151989"><time>2009-07-02T15:39:11Z</time></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Rue des Chênes</name>
+    <trkseg>
+      <trkpt lat="46.5469935" lon="-75.5070325"><time>2009-07-02T15:40:15Z</time></trkpt>
+      <trkpt lat="46.547318" lon="-75.5069181"><time>2009-07-02T15:37:28Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

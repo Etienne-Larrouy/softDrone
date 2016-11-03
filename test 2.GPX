@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version = "1.0"
+  creator = "Navigation 2.11.74 - http://francois.fouchet.free.fr/"
+  xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:topografix = "http://www.topografix.com/GPX/Private/TopoGrafix/0/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+  <name><![CDATA[Navigation - test.GPX]]></name>
+  <rte>
+    <name><![CDATA[test.GPX]]></name>
+    <rtept lat="1.32424" lon="1.23534522">
+       <ele> 0 </ele>
+       <name><![CDATA[1]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+    <rtept lat="2.89" lon="2">
+       <ele> 305 </ele>
+       <name><![CDATA[2]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+    <rtept lat="3" lon="3">
+       <ele> 457 </ele>
+       <name><![CDATA[3]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+	<rtept lat="4" lon="4">
+       <ele> 457 </ele>
+       <name><![CDATA[3]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+	<rtept lat="5" lon="5">
+       <ele> 457 </ele>
+       <name><![CDATA[3]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+	    <rtept lat="6.93" lon="7.93">
+       <ele> 457 </ele>
+       <name><![CDATA[3]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+	    <rtept lat="3.2" lon="3.9">
+       <ele> 457 </ele>
+       <name><![CDATA[3]]></name>
+       <desc><![CDATA[]]></desc>
+    </rtept>
+  </rte>
+</gpx>
